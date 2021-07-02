@@ -72,3 +72,4 @@ This algorithm gives good results on datasets with large inter-word-distances an
 However, for historical datasets like Bentham or Ratsprotokolle results are not very good and more complex approaches
 should be preferred (e.g., a neural network based approach as implemented in
 the [WordDetectorNN repository](https://github.com/githubharald/WordDetectorNN)).
+# flaskappexample
